@@ -1,0 +1,14 @@
+{
+  "name": "iota-lib-quickstart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "iota.lib.js": "^0.4.7",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
